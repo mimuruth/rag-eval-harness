@@ -1,0 +1,9 @@
+id,question,delta_must_include,delta_grounding,delta_violations
+q-001,Why might an Azure OpenAI request return HTTP 429 errors?,0.0,0.006,0
+q-002,What are common causes of grounding failures in RAG systems?,0.5,0.037,0
+q-003,Why might Key Vault references fail in an Azure application?,0.0,0.005,0
+q-004,What data should you capture for observability in an enterprise AI app?,0.0,0.0,0
+q-005,How can you reduce LLM cost without breaking functionality?,0.0,0.024,0
+q-006,Why do Private Endpoints often cause DNS-related connectivity issues?,0.0,0.0,0
+q-007,What makes tool calling in agents reliable in production?,0.0,0.0,0
+q-008,Why do LLM outputs change even if you did not change your code?,0.0,0.013,0
